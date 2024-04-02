@@ -19,9 +19,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://t.me/Temirov"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://leetcode.com/temirovuz/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
+<a href="https://t.me/Jumanazarov_Rustam"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+
 
 
 
