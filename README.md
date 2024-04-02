@@ -11,8 +11,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rustam2900&show_icons=true&locale=en" alt="temirovuz" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/temirovuz?theme=wtf&font=ABeeZee&ext=heatmap)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temirovuz" alt="Rustam2900" /></p>
 
