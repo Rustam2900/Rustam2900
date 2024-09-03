@@ -42,6 +42,9 @@
   <a href="https://t.me/Jumanazarov_Rustam">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://leetcode.com/u/jumanazarovrustam502/">
+    <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
   <a href="https://www.instagram.com/rustam__2900/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
