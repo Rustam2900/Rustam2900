@@ -29,8 +29,15 @@
       <img src="https://skillicons.dev/icons?i=git,python,django,fastapi,cpp,html,css,mongodb,mysql,postgres,sqlite,postman,aws,bootstrap,docker,github,linux" />
 </p>
 
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://leetcode.com/u/jumanazarovrustam502//"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+
+  
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
